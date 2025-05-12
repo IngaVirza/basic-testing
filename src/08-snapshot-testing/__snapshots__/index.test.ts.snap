@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generateLinkedList should generate linked list from values 2 1`] = `
+{
+  "next": {
+    "next": {
+      "next": {
+        "next": null,
+        "value": null,
+      },
+      "value": 6,
+    },
+    "value": 5,
+  },
+  "value": 4,
+}
+`;
+
+exports[`generateLinkedList should generate linked list from values 2 2`] = `
+{
+  "next": {
+    "next": {
+      "next": {
+        "next": null,
+        "value": null,
+      },
+      "value": 6,
+    },
+    "value": 5,
+  },
+  "value": 4,
+}
+`;
